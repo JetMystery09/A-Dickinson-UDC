@@ -1,0 +1,31 @@
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.deps.json
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.runtimeconfig.json
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.runtimeconfig.dev.json
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.dll
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.pdb
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.csprojAssemblyReference.cache
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.AssemblyInfoInputs.cache
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.AssemblyInfo.cs
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.dll
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.pdb
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.csprojAssemblyReference.cache
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.AssemblyInfoInputs.cache
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.AssemblyInfo.cs
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.dll
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.pdb
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.deps.json
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.runtimeconfig.json
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.runtimeconfig.dev.json
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.dll
+D:\University Work\Placement Challenge\UNiDAYS Discounts Coding Challenge 2\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.pdb
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.deps.json
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.runtimeconfig.json
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.runtimeconfig.dev.json
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.dll
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\bin\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.pdb
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.csprojAssemblyReference.cache
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.csproj.CoreCompileInputs.cache
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.AssemblyInfoInputs.cache
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.AssemblyInfo.cs
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.dll
+E:\UNiDAYS Discounts Coding Challenge\UNiDAYS Discounts Coding Challenge\obj\Debug\netcoreapp2.1\UNiDAYS Discounts Coding Challenge.pdb
